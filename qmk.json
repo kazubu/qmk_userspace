@@ -1,6 +1,7 @@
 {
     "userspace_version": "1.1",
     "build_targets": [
-        ["ymdk/ymd40/air40", "via"]
+        ["ymdk/ymd40/air40", "via"],
+        ["crkbd", "via"]
     ]
 }
